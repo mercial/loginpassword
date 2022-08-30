@@ -22,5 +22,5 @@
 При авторизации пользователь попадает в панель управления<br>
 ![dashboard](https://user-images.githubusercontent.com/16239306/187348907-f7b885e4-e1f8-4ae8-9f85-3c07cb403998.png)
 <br>
-Строка подключения к БД, <b>заменить на свою</b> 
+Строка подключения к БД, <b>заменить на свою</b> <br>
 <code>String^ connString = "Data Source=localhost\\sqlexpress;Initial Catalog=myelectronic;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";</code>
