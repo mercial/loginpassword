@@ -20,4 +20,4 @@
 ![fields](https://user-images.githubusercontent.com/16239306/187348163-63cb9f9c-c1c6-43fa-9dbc-48548a4b4ca4.png)
 <br><br>
 При авторизации пользователь попадает в панель управления<br>
-![dashboard](https://user-images.githubusercontent.com/16239306/187348255-0101092a-e762-4c19-aef2-da5d283a4c15.png)
+![dashboard](https://user-images.githubusercontent.com/16239306/187348907-f7b885e4-e1f8-4ae8-9f85-3c07cb403998.png)
